@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasser-x
 - 👀 I’m interested in full-stack developping as well as cloud computing .
-- 🌱 I’m currently learning frontend .
+- 🌱 I’m currently learning aws services .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yasseromr69@gmail.com
 - 
