@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasser-x
-- 👀 I’m interested in full-stack developping as well as cloud computing .
+- 👀 I’m interested in cloud computing as well as DevOps.
 - 🌱 I’m currently learning aws services .
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on future projects leveraging cloud architectures or DevOps solutions
 - 📫 How to reach me : yasseromr69@gmail.com
 - 
 
